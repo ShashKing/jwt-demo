@@ -8,6 +8,7 @@ class AuthenticationController < ApplicationController
     end
   end
 
+
   private
 
   def payload(user)
